@@ -1,9 +1,13 @@
 # General Questions:
 
 * What did you learn yesterday/this week?
+    - How to use Sagas better with building out an SPA
 * What excites or interests you about coding?
+    - I am very intrigued by machine learning. I find it facinating that certain algorithms can build models that can make highly accuarte predictions about real world observances and deep learning can teach itself things.
 * What is a recent technical challenge you experienced and how did you solve it?
+    - Creating a report from several pages and then rendering it in a pdf renderer for download. I used graphql endpoints to streamline how data was fetched.
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
+    -
 * Can you describe some SEO best practices or techniques you have used lately?
 * Can you explain any common techniques or recent issues solved in regards to front-end security?
 * What actions have you personally taken on recent projects to increase maintainability of your code?

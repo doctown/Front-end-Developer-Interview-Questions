@@ -1,6 +1,7 @@
 # JS Questions:
 
 * Explain event delegation
+    -
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
